@@ -14,7 +14,7 @@ Descarga el .zip de la practica a probar o el [juego final](https://github.com/m
 
 **La disposición de las carpetas es la siguiente:**
 
-![tree](https://github.com/mati3/PDOO/tree/master/img/tree.png)
+![tree]img/tree.png)
 
 
 
