@@ -14,7 +14,7 @@ Descarga el .zip de la practica a probar o el [juego final](https://github.com/m
 
 **La disposición de las carpetas es la siguiente:**
 
-![tree](img/tree.png)
+![tree](img/tree.PNG)
 
 
 
