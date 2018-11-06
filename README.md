@@ -14,10 +14,24 @@ Descarga el .zip de la practica a probar o el [juego final](https://github.com/m
 
 **La disposición de las carpetas es la siguiente:**
 
-![tree](img/tree.PNG)
 
-
-
+		├───Examenes
+		│   ├───examen1
+		│   ├───examen2
+		│   ├───examen3
+		│   └───Ex_final
+		├───Guiones
+		│   ├───practica1
+		│   ├───practica2
+		│   ├───practica3
+		│   ├───practica4
+		│   └───practica5
+		└───Qytetet_el_juego
+			├───Juego_final
+			├───p1yp2
+			├───p3
+			├───p4
+			└───p5
 
 
 
